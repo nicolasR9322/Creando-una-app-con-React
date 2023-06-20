@@ -11,6 +11,11 @@ descripcion: En esta ejercitación tendremos la responsabilidad de "migrar" una 
     desafio 2:
         -convertir a componentes el HTML proporcionado
 
+    desafio 3:
+        -separar en componentes:
+            -rowMovies
+            -LastMovieDatabase
+            -GenresInDatabase
 
 
 # Getting Started with Create React App
