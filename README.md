@@ -1,13 +1,15 @@
 Trabajo práctico de Digital House donde creara un dashboard con React.
 
-descripcion: En esta ejercitación tendremos la responsabilidad de "migrar" una sencilla estructura HTML
-+ CSS, tipo tablero administrativo (dashboard) a una aplicación de React.
+descripcion: En esta ejercitación tendremos la responsabilidad de "migrar" una sencilla estructura HTML + CSS, tipo tablero administrativo (dashboard) a una aplicación de React.
 
     -base: 
         -carpeta base proporcionada
 
     desafio 1: 
         -levantar un proyecto en React
+    
+    desafio 2:
+        -convertir a componentes el HTML proporcionado
 
 
 
